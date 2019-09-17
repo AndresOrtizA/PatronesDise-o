@@ -1,0 +1,7 @@
+C:\Users\Administrador\source\repos\ActividadPatronesINF1\ActividadPatronesINF1\bin\Debug\ActividadPatronesINF1.exe.config
+C:\Users\Administrador\source\repos\ActividadPatronesINF1\ActividadPatronesINF1\bin\Debug\ActividadPatronesINF1.exe
+C:\Users\Administrador\source\repos\ActividadPatronesINF1\ActividadPatronesINF1\bin\Debug\ActividadPatronesINF1.pdb
+C:\Users\Administrador\source\repos\ActividadPatronesINF1\ActividadPatronesINF1\obj\Debug\ActividadPatronesINF1.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\ActividadPatronesINF1\ActividadPatronesINF1\obj\Debug\ActividadPatronesINF1.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\ActividadPatronesINF1\ActividadPatronesINF1\obj\Debug\ActividadPatronesINF1.exe
+C:\Users\Administrador\source\repos\ActividadPatronesINF1\ActividadPatronesINF1\obj\Debug\ActividadPatronesINF1.pdb
