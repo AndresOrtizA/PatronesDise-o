@@ -6,26 +6,38 @@ using System.Threading.Tasks;
 
 namespace ActividadPatronesINF1
 {
-    public static class Adaptador
+    /// <summary>
+    /// Se implementa Adaptador , ya que la fachada opera por Metodos y el usuario Teclea singnos.
+    /// </summary>
+    public class Adaptador
     {
 
-        public static double Operar(string pOperador, double n1, double n2) {
+        private Fachada _fachada = new Fachada();
+
+        /// <summary>
+        /// Dependiendo del Operador entrante se usa un metodo diferente de la fachada.
+        /// </summary>
+        /// <param name="pOperador"></param>
+        /// <param name="n1"></param>
+        /// <param name="n2"></param>
+        /// <returns></returns>
+        public double Operar(string pOperador, double n1, double n2) {
 
             double resultado= 0;
 
             switch (pOperador)
             {
                 case "+":
-                    resultado= new Fachada().Sumar(n1,n2);
+                    resultado= _fachada.Sumar(n1,n2);
                     break;
                 case "-":
-                    resultado = new Fachada().Restar(n1, n2);                    
+                    resultado = _fachada.Restar(n1, n2);                    
                     break;
                 case "*":
-                    resultado = new Fachada().Multiplicar(n1, n2);
+                    resultado = _fachada.Multiplicar(n1, n2);
                     break;
                 case "/":
-                    resultado = new Fachada().Dividir(n1, n2);
+                    resultado = _fachada.Dividir(n1, n2);
                     break;
                 default:                    
                     break;

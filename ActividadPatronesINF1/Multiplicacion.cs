@@ -18,6 +18,7 @@ namespace ActividadPatronesINF1
         {
             Numero1 = pNumero1;
             Numero2 = pNumero2;
+            Operar();
         }
 
         public double Operar()

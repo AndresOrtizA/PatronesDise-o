@@ -45,7 +45,9 @@
     <Compile Include="Adaptador.cs" />
     <Compile Include="Division.cs" />
     <Compile Include="Fachada.cs" />
+    <Compile Include="Memento.cs" />
     <Compile Include="Multiplicacion.cs" />
+    <Compile Include="Originator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Resta.cs" />
