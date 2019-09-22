@@ -25,19 +25,13 @@ namespace ActividadPatronesINF1
 
         public double Multiplicar(double n1, double n2)
         {
-            return new Multiplicacion().Operar(n1, n2);
+            return new Multiplicacion(n1, n2).Operar();
         }
 
         public double Restar(double n1, double n2)
         {
             return new Resta().Operar(n1, n2);
-        }
-
-
-        public double Porcentual(double n1, double n2)
-        {
-            return new Multiplicacion().Operar(n1, new Division().Operar(n2, 100));
-        }
+        }        
 
     }
 }

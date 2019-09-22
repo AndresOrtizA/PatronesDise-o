@@ -5,3 +5,9 @@ C:\Users\Administrador\source\repos\ActividadPatronesINF1\ActividadPatronesINF1\
 C:\Users\Administrador\source\repos\ActividadPatronesINF1\ActividadPatronesINF1\obj\Debug\ActividadPatronesINF1.csproj.CoreCompileInputs.cache
 C:\Users\Administrador\source\repos\ActividadPatronesINF1\ActividadPatronesINF1\obj\Debug\ActividadPatronesINF1.exe
 C:\Users\Administrador\source\repos\ActividadPatronesINF1\ActividadPatronesINF1\obj\Debug\ActividadPatronesINF1.pdb
+C:\Users\Home\Source\Repos\PatronesDise-o\ActividadPatronesINF1\bin\Debug\ActividadPatronesINF1.exe.config
+C:\Users\Home\Source\Repos\PatronesDise-o\ActividadPatronesINF1\obj\Debug\ActividadPatronesINF1.exe
+C:\Users\Home\Source\Repos\PatronesDise-o\ActividadPatronesINF1\obj\Debug\ActividadPatronesINF1.pdb
+C:\Users\Home\Source\Repos\PatronesDise-o\ActividadPatronesINF1\obj\Debug\ActividadPatronesINF1.csprojResolveAssemblyReference.cache
+C:\Users\Home\Source\Repos\PatronesDise-o\ActividadPatronesINF1\bin\Debug\ActividadPatronesINF1.exe
+C:\Users\Home\Source\Repos\PatronesDise-o\ActividadPatronesINF1\bin\Debug\ActividadPatronesINF1.pdb
